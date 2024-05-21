@@ -1,0 +1,31 @@
+_repo: Splashes-of-red_73618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, J. Frank (James Francis)
+    aliases:
+    - Davis, James Francis
+    - Collier, Nick Sherlock
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '57123'
+    url: http://www.gutenberg.org/2009/agents/57123
+description: ''
+gutenberg_issued: '2024-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73618'
+language: en
+pgterms:marc904: https://archive.org/details/the-popular-magazine-v-77-n-05-1925-09-20
+pgterms:marc905: 20240326004256davis
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Splashes of red
+url: http://www.gutenberg.org/ebooks/73618
